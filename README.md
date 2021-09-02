@@ -1,6 +1,6 @@
 # Fiu - Movie ticket order simulation application
 
-![floating-iphone-x-mockup-template@2x (1)](https://user-images.githubusercontent.com/73412329/131819951-21c0275a-eff9-426c-9fa9-9227ded987f6.png)
+![floating-iphone-x-mockup-template](https://user-images.githubusercontent.com/73412329/131820921-ce651ca5-8b44-4e22-95d9-31af7f90ae43.png)
 
 This application is a simulated movie ticket reservation app that was built in the flutter framework and firebase as backend. Use bloc state management and mvvm Architecture.
 
@@ -8,17 +8,17 @@ This application is a simulated movie ticket reservation app that was built in t
 
 Before you begin, ensure you have met the following requirements:
 
-- Got a themoviedb.org account for getting a key fire. Please make an account if you haven't got any
+- Got a themoviedb.org account for getting a API key. Please make an account if you haven't got any
 - The project was built on windows, so only relate with the android OS (for ios, go ahead if you would like to contribute)
 
-## Installing and using Fiu
+## Installing Fiu
 
 To install Fiu, follow these steps:
 
 1. Change your package names in order (please find the tutorials)
 2. Enter your new package name, replace the file service.json with the new one, setting build.gradle, enabled auth with email and password, create firestore database etc. You'd better learn how to make a project on firebase first
 3. Open folder lib/shared/shared_value.dart, change variable apiKey with yours.
-4. Run your project. Happy studying
+4. Run your project. Happy studying!
 
 ## Contributing to Fiu
 
