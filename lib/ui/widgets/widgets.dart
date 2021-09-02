@@ -1,0 +1,22 @@
+import 'package:fiu/model/models.dart';
+import 'package:fiu/shared/shared.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_icons/flutter_icons.dart';
+import 'package:intl/intl.dart';
+import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:fiu/extensions/extensions.dart';
+
+part 'preference_card.dart';
+part 'carousel_card.dart';
+part 'movie_card.dart';
+part 'category_card.dart';
+part 'rating_star.dart';
+part 'date_card.dart';
+part 'time_card.dart';
+part 'theater_box.dart';
+part 'coming_soon_card.dart';
+part 'seat_box.dart';
+part 'topup_card.dart';
+part 'transaction_card.dart';
+part 'ticket_card.dart';
+part 'favorite_movie_card.dart';

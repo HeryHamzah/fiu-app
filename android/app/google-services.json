@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391899470928",
+    "project_id": "fiu-movie",
+    "storage_bucket": "fiu-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391899470928:android:0758a13ceb5cce55624555",
+        "android_client_info": {
+          "package_name": "com.example.fiu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391899470928-uanmlu911esba9mae7s2ets71hbhc3iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNi5dytn2N0YQdrD-zXNVxznRVjoiXPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391899470928-uanmlu911esba9mae7s2ets71hbhc3iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
