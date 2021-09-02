@@ -2,7 +2,7 @@
 
 ![floating-iphone-x-mockup-template](https://user-images.githubusercontent.com/73412329/131820921-ce651ca5-8b44-4e22-95d9-31af7f90ae43.png)
 
-This application is a simulated movie ticket reservation app that was built in the flutter framework and firebase as backend. Use bloc state management and mvvm Architecture.
+This application is a simulated movie ticket reservation app that was built in the flutter framework and firebase as backend. Using bloc state management and mvvm Architecture.
 
 ## Prerequisites
 
@@ -15,8 +15,8 @@ Before you begin, ensure you have met the following requirements:
 
 To install Fiu, follow these steps:
 
-1. Change your package names in order (please find the tutorials)
-2. Enter your new package name, replace the file service.json with the new one, setting build.gradle, enabled auth with email and password, create firestore database etc. You'd better learn how to make a project on firebase first
+1. Change your package names in your will (please find the tutorials)
+2. Make new project at firebase => Enter your new package name, replace the file service.json with the new one, setting build.gradle, enabled auth with email and password, create firestore database etc. You'd better learn how to make a project on firebase first
 3. Open folder lib/shared/shared_value.dart, change variable apiKey with yours.
 4. Run your project. Happy studying!
 
@@ -24,7 +24,7 @@ To install Fiu, follow these steps:
 
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 
-To contribute to <project_name>, follow these steps:
+To contribute to fiu, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
