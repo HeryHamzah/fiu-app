@@ -1,4 +1,8 @@
 # Fiu - Movie ticket order simulation application
+![GitHub repo size](https://img.shields.io/github/repo-size/HeryHamzah/fiu-app)
+![GitHub contributors](https://img.shields.io/github/contributors/HeryHamzah/fiu-app)
+![GitHub stars](https://img.shields.io/github/stars/HeryHamzah/fiu-app?style=social)
+![GitHub forks](https://img.shields.io/github/forks/HeryHamzah/fiu-app?style=social)
 
 ![floating-iphone-x-mockup-template](https://user-images.githubusercontent.com/73412329/131820921-ce651ca5-8b44-4e22-95d9-31af7f90ae43.png)
 
@@ -46,7 +50,7 @@ Thanks to the following people who have contributed to this project:
 
 ## Contact
 
-If you want to contact me you can reach me at <hamzahhery23@gmail.com>.
+If you want to contact me you can reach me at <hamzahhery23@gmail.com> or <heryhamzah20@gmail.com>.
 
 ## License
 
