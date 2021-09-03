@@ -8,6 +8,8 @@
 
 This application is a simulated movie ticket reservation app that was built in the flutter framework and firebase as backend. Using bloc state management and mvvm Architecture.
 
+You can see me at : https://apkpure.com/p/com.example.fiu
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
