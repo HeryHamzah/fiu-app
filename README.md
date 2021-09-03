@@ -15,10 +15,14 @@ Before you begin, ensure you have met the following requirements:
 
 To install Fiu, follow these steps:
 
-1. Change your package names in your will (please find the tutorials)
-2. Make new project at firebase => Enter your new package name, replace the file service.json with the new one, setting build.gradle, enabled auth with email and password, create firestore database etc. You'd better learn how to make a project on firebase first
-3. Open folder lib/shared/shared_value.dart, change variable apiKey with yours.
-4. Run your project. Happy studying!
+1. Clone the repo
+    ```sh
+   git clone https://github.com/HeryHamzah/fiu-app.git
+   ```
+3. Change your package names in your will (please find the tutorials)
+4. Make new project at firebase => Enter your new package name, replace the file service.json with the new one, setting build.gradle, enabled auth with email and password, create firestore database etc. You'd better learn how to make a project on firebase first
+5. Open folder lib/shared/shared_value.dart, change variable apiKey with yours.
+6. Run your project. Happy studying!
 
 ## Contributing to Fiu
 
